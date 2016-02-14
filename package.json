@@ -1,0 +1,26 @@
+{
+  "name": "heroku-study-express-app",
+  "version": "1.0.0",
+  "description": "Node app for study Heroku",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raimon49/heroku-study-express-app.git"
+  },
+  "keywords": [
+    "sample",
+    "heroku"
+  ],
+  "author": "raimon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raimon49/heroku-study-express-app/issues"
+  },
+  "homepage": "https://github.com/raimon49/heroku-study-express-app",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
